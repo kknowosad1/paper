@@ -1,8 +1,9 @@
 # Title
-Aging of biomass burning aerosols over West Africa
+Simulations of biomass burning aerosols over West Africa
 
 #Author
 Gerard Capes
+The Dude
 
 #Introduction
 We present aircraft measurement of BB0A over West Africa.
