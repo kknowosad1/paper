@@ -2,8 +2,8 @@
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 # Author
-Gerard Capes
-The Dude
+Gerard Capes, University of Manchester
+The Dude, University of Neverland
 
 # Introduction
 We present aircraft measurement of BB0A over West Africa.
