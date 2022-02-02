@@ -23,5 +23,8 @@ Sim was done.
 # Results
 Results were great.
 
+# Conclusions
+Conclusion is that Git is useful.
+
 # Figures
 Figures on their own in draft paper.
