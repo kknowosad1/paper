@@ -1,8 +1,9 @@
 # Title
-Aircratf measurements of biomass burning aerosols over West Africa
+Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 #Author
 Gerard Capes
+The Dude
 
 #Introduction
 We present aircraft measurement of BB0A over West Africa.
@@ -14,3 +15,6 @@ but continental-scale measurements have not previously been made.
 
 #Method
 The research was conducted via review of yellow text videos on Youtube.
+
+#Simulations
+The resuls of evolution of particle size simulation was shite.
