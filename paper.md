@@ -20,5 +20,8 @@ literature published by Smith et al 2002.
 # Simulations
 Sim was done.
 
-#Results
+# Results
 Results were great.
+
+# Figures
+Figures on their own in draft paper.
