@@ -28,3 +28,7 @@ Conclusion is that Git is useful.
 
 # Figures
 Figures on their own in draft paper.
+
+# Acknowledgments
+
+Thanks to y'all.
